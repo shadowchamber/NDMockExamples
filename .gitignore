@@ -3,3 +3,7 @@
 ################################################################################
 
 /bin
+/.vs
+/Projects/NDMockExamples/obj/Debug
+/BuildModelResult.xml
+/BuildModelResult.log
